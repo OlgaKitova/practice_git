@@ -1,0 +1,12 @@
+.idea/
+
+**/.idea_copy/**
+
+!.idea_copy/workspace.xml
+
+**/module[!2].jar
+
+**/build/**
+!**/module2.jar
+
+**/application-local.properties 
